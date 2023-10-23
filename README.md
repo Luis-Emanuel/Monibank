@@ -28,7 +28,7 @@ O projeto e composto posto por uma página principal onde expõe um pouco do ban
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](https://monibank-liart-mu.vercel.app/).
+[Veja o projeto final do curso em funcionamento](https://monibank-nt.vercel.app/).
 
 ## 📷FOTOS DO PROJETO
 <div align="center">
